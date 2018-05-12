@@ -1,0 +1,31 @@
+_repo: The-Rose-of-Paradise--13-Being-a-detailed-account-of-certain-adventures-that-happened-to-capt__31673
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Pyle, Howard
+    birthdate: 1853
+    deathdate: 1911
+    gutenberg_agent_id: '491'
+    url: http://www.gutenberg.org/2009/agents/491
+    wikipedia: http://en.wikipedia.org/wiki/Howard_Pyle
+description: ''
+gutenberg_issued: '2010-03-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '31673'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Pirates -- Fiction'
+- !lcsh 'Mozambique Channel -- Fiction'
+title: "The Rose of Paradise\r\nBeing a detailed account of certain adventures that\
+  \ happened to captain John Mackra, in connection with the famous pirate, Edward\
+  \ England, in the year 1720, off the Island of Juanna in the Mozambique Channel;\
+  \ writ by himself, and now for the first time published"
+url: http://www.gutenberg.org/ebooks/31673
