@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/491
     wikipedia: http://en.wikipedia.org/wiki/Howard_Pyle
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/31673#The-Rose-of-Paradise--13-Being-a-detailed-account-of-certain-adventures-that-happened-to-capt_
 gutenberg_issued: '2010-03-17'
 gutenberg_type: Text
 identifiers:
